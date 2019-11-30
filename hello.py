@@ -34,6 +34,10 @@ print(r'444\n55')
 
 #input("\n\n 请输入: ")
 
+'''
+这是注释哦 zzt
+'''
+
 x=1
 y=2
 print(x);print(y)
